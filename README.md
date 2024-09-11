@@ -18,8 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 **Upcoming**
 --
-- **Huggingface useful datasets**
 - **Function calling in LLMs**
-- **train a model to improve function calling**
+- **Train a model to improve function calling**
 - **A complete RAG in detail**
 - **RAGs at production level**
+- **Huggingface useful datasets**
+- **Detail discussion on available lightweight and fast inference libraries/framework ot build llms**
