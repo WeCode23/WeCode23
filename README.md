@@ -11,14 +11,15 @@ You can click the Preview link to take a look at your changes.
 
 
 **Repositories description**
+--
+- **Rag from scratch** - A very simple RAG application using llamafile and wine data to understand how A RAG works.
+- **LLM Finetuning** - A detailed notebook to train a LLM model using SFT and DPO trainings. 
+- **Prefect** - Learn running prefect workflows (#TODO - to add the documentation to understand creating prefect workflows)
 
-**Rag from scratch** - A very simple RAG application using llamafile and wine data to understand how A RAG works.
-**LLM Finetuning** - A detailed notebook to train a LLM model using SFT and DPO trainings. 
-**Prefect** - Learn running prefect workflows (#TODO - to add the documentation to understand creating prefect workflows)
-
-*Upcoming*
-**Huggingface useful datasets**
-**Function calling in LLMs**
-**train a model to improve function calling**
-**A complete RAG in detail**
-**RAGs at production level**
+**Upcoming**
+--
+- **Huggingface useful datasets**
+- **Function calling in LLMs**
+- **train a model to improve function calling**
+- **A complete RAG in detail**
+- **RAGs at production level**
