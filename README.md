@@ -24,3 +24,13 @@ You can click the Preview link to take a look at your changes.
 - **RAGs at production level**
 - **Huggingface useful datasets**
 - **Detail discussion on available lightweight and fast inference libraries/framework ot build llms**
+
+**Useful frameworks and libraries**
+--
+- **Groq**  {https://groq.com/}
+- **Unsloth**  {https://unsloth.ai/}
+- **Ollama** {https://ollama.com/}
+- **llamafile**  {https://github.com/Mozilla-Ocho/llamafile}
+- **TRL**  {https://huggingface.co/docs/trl/en/index}
+- **PEFT**  {https://huggingface.co/docs/peft/en/index}
+- **Bitsandbytes**  {https://huggingface.co/docs/bitsandbytes/main/en/index}
