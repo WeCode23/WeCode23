@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WeCode23
 - 👀 I’m interested in the areas of ML, Gen AI and MLOps
-- 🌱 I’m currently exploring the different aspects of MLOps and the tools for both non-cloud and cloud based Ops.
-- 💞️ I’m looking to collaborate on discussing the Ml/LLMOps.
+- 🌱 I’m currently exploring the different paradigm of LLMs and LLMOps.
+- 💞️ This repo is dedicated to indepth learning about LLms, looking to collaborate on discussing about anything related to LLMs.
 - 📫 <coming soon>
 
 <!---
