@@ -20,9 +20,11 @@ You can click the Preview link to take a look at your changes.
 **Upcoming**
 --
 - **Function calling in LLMs**
-- **Crew AI**
 - **Train a model to improve function calling**
-- **A complete RAG in detail**
+- **RAG - Query Translation**
+- **RAG - Query Routing techniques**
+- **RAG - Query Indexing techniques**
+- **RAG - Improvised Retrieval and generation techniques**
 - **Huggingface useful datasets**
 - **Detail discussion on available lightweight and fast inference libraries/framework to build llms**
 
