@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WeCode23
-- 👀 I’m interested in the areas of ML, Gen AI and MLOps
+- 👀 I’m interested in the areas of Programming, ML, Gen AI and ML/LLMOps
 - 🌱 I’m currently exploring the different paradigm of LLMs and LLMOps.
 - 💞️ This repo is dedicated to indepth learning about LLms, looking to collaborate on discussing about anything related to LLMs.
-- 📫 <coming soon>
+- 📫 Programming series 
 
 <!---
 WeCode23/WeCode23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
