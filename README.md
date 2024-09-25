@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 
 **Repositories description**
---**RAG: Query Translation** - A few techniques to improve your query to get better and more context aware responses.
+
+- **RAG: Query Translation** - A few techniques to improve your query to get better and more context aware responses. https://github.com/WeCode23/RAG-Query-Translation
 - **Rag from scratch (beginner)** - A very simple RAG application using llamafile and wine data. https://github.com/WeCode23/Rag-from-scratch
 - **Production RAG** - A detailed architecture to create a production standard RAG pipeline. https://github.com/WeCode23/production-RAG
 - **LLM Finetuning** - A detailed notebook to train a LLM model using SFT and DPO trainings. https://github.com/WeCode23/finetuning-LLMs
