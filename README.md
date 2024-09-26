@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
 
 **Upcoming**
 --
-- **Function calling in LLMs**
-- **Train a model to improve function calling**
 - **RAG - Query Routing techniques**
 - **RAG - Query Indexing techniques**
-- **RAG - Improvised Retrieval and generation techniques**
+- **RAG - Create RAG chains using LangGraph**
+- **Function calling in LLMs**
+- **Train a model to improve function calling**
 - **Huggingface useful datasets**
 - **Detail discussion on available lightweight and fast inference libraries/framework to build llms**
 
