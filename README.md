@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 **Repositories description**
 
 - **RAG: Query Translation** - A few techniques to improve your query to get better and more context aware responses. https://github.com/WeCode23/RAG-Query-Translation
+- **RAG: Query Routing** - How to route your query to relevant data source. https://github.com/WeCode23/RAG-Routing
 - **Rag from scratch (beginner)** - A very simple RAG application using llamafile and wine data. https://github.com/WeCode23/Rag-from-scratch
 - **Production RAG** - A detailed architecture to create a production standard RAG pipeline. https://github.com/WeCode23/production-RAG
 - **LLM Finetuning** - A detailed notebook to train a LLM model using SFT and DPO trainings. https://github.com/WeCode23/finetuning-LLMs
@@ -20,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 **Upcoming**
 --
-- **RAG - Query Routing techniques**
 - **RAG - Query Indexing techniques**
 - **RAG - Create RAG chains using LangGraph**
 - **Function calling in LLMs**
