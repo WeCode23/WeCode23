@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 **Repositories description**
-
+- **RAG: FlashRank Reranker** - A technique to improve your existing search by re-rank them in more context aware order. https://github.com/WeCode23/RAG-FlashRank-Reranker
 - **RAG: Query Translation** - A few techniques to improve your query to get better and more context aware responses. https://github.com/WeCode23/RAG-Query-Translation
 - **RAG: Query Routing** - How to route your query to relevant data source. https://github.com/WeCode23/RAG-Routing
 - **Rag from scratch (beginner)** - A very simple RAG application using llamafile and wine data. https://github.com/WeCode23/Rag-from-scratch
