@@ -18,15 +18,7 @@ You can click the Preview link to take a look at your changes.
 - **Production RAG** - A detailed architecture to create a production standard RAG pipeline. https://github.com/WeCode23/production-RAG
 - **LLM Finetuning** - A detailed notebook to train a LLM model using SFT and DPO trainings. https://github.com/WeCode23/finetuning-LLMs
 - **Prefect** - Learn running prefect workflows (#TODO - to add the documentation) https://github.com/WeCode23/prefect-tutorial
-
-**Upcoming**
---
-- **RAG - Query Indexing techniques**
-- **RAG - Create RAG chains using LangGraph**
-- **Function calling in LLMs**
-- **Train a model to improve function calling**
-- **Huggingface useful datasets**
-- **Detail discussion on available lightweight and fast inference libraries/framework to build llms**
+  
 
 **Useful frameworks and libraries**
 --
