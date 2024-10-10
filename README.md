@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 **Repositories description**
+- **RAG: Function Calling** - Function calling with local LLMs. https://github.com/WeCode23/RAG-Function-calling
 - **RAG: Retrieval** - How to improve your retrieval in LLM RAGs. https://github.com/WeCode23/RAG-Retrieval-Techniques
 - **RAG: FlashRank Reranker** - A technique to improve your existing search by re-rank them in more context aware order. https://github.com/WeCode23/RAG-FlashRank-Reranker
 - **RAG: Query Translation** - A few techniques to improve your query to get better and more context aware responses. https://github.com/WeCode23/RAG-Query-Translation
